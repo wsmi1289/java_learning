@@ -1,0 +1,9 @@
+package introtocs.creditcard;
+
+public class SoftwareDiscount {
+
+	public SoftwareDiscount() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

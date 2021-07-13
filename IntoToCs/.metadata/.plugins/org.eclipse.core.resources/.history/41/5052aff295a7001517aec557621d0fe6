@@ -1,0 +1,20 @@
+package introtocs.creditcard;
+import java.util.Scanner;
+
+public class DemoSoftwareDiscount {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		double number;
+		
+		Scanner keyboard = new Scanner(System.in);
+		
+		System.out.println("how many packages?");
+		number = keyboard.nextDouble();
+
+		SoftwareDiscount check = new SoftwareDiscount(number);
+		
+		System.out.println("discount = " + check.getDiscount());
+	}
+
+}

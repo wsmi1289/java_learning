@@ -1,0 +1,9 @@
+package introtocs;
+
+public class Savings {
+
+	public Savings() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

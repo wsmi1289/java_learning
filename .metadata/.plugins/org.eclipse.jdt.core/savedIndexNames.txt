@@ -1,0 +1,10 @@
+INDEX VERSION 1.130+/Users/willsmith/Desktop/code/java/.metadata/.plugins/org.eclipse.jdt.core
+3367849946.index
+3413473896.index
+3711753842.index
+1864106594.index
+366760194.index
+2025960283.index
+3764189122.index
+3825090155.index
+2362769592.index
